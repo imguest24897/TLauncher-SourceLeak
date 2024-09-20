@@ -9,7 +9,7 @@
 /*   */ }
 
 
-/* Location:              C:\Users\vovanchik\Downloads\TLauncher.jar!\org\tlauncher\tlauncher\rmo\Bootstrapper.class
+/* Location:              C:\Users\you think you can get my username\Downloads\TLauncher.jar!\org\tlauncher\tlauncher\rmo\Bootstrapper.class
  * Java compiler version: 8 (52.0)
  * JD-Core Version:       1.1.3
  */
